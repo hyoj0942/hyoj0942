@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Joey%20Kim&desc=Software%20Engineer&fontSize=90&fontAlignY=40&descSize=30&descAlign=80)
 
 
-[![Joey Kim's stats](https://github-readme-stats.vercel.app/api?username=hyoj0942&theme=dracula&count_private=true&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Joey Kim's stats](https://github-readme-stats-hyoj0942.vercel.app/api?username=hyoj0942&theme=dracula&count_private=true&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats-hyoj0942.vercel.app)
 
 ---
 
