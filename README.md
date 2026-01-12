@@ -3,7 +3,7 @@
 
 ---
 
-### 🔭 I’m currently working on _Machinelearning Engineer_ 
+### 🔭 I’m currently working as a _Data Engineer_ at Supercent
 
 </br>
 
